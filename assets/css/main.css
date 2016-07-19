@@ -1,0 +1,98 @@
+.wood {
+    background-image: url(../img/bg.jpg);
+    width: 1440px;
+    height: 720px;
+}
+
+.level1 {
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-bottom: 82px;
+}
+
+.level2 {
+    float: left;
+    background: white;
+    width: 430px;
+    height: 560px;
+    margin: 17px;
+}
+
+.level3 {
+    background: #204060;
+    height: 250px;
+    color: white;
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.middle {
+    text-align: center;
+}
+
+.Freeplan {
+    color: white;
+    letter-spacing: 2px;
+    font-family: Arial;
+    font-size: 24px;
+    text-align: center;
+}
+
+.dollarsign {
+    font-family: Arial;
+    font-size: 30px;
+    position: relative;
+    top: -35px;
+    color: #bdc3c7;
+    letter-spacing: 30px;
+}
+
+.Zero {
+    font-family: Arial;
+    font-size: 80px;
+}
+
+.mo {
+    font-family: Arial;
+    font-size: 20px;
+    position: relative;
+    color: #bdc3c7;
+}
+
+.btn {
+    font-size: 20px;
+    padding: 0.5em;
+    border: 1px solid white;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+
+.pricing-list {
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 110px;
+}
+
+.pricing-list ul li {
+    list-style: none;
+    border-bottom: 1px solid #EAECEB;
+    color: #bdc3c7;
+    font-family: Arial;
+    font-size: 19px;
+    line-height: 42px;
+}
+
+.pricing .pricing-list ul li i {
+    margin-right: 12px;
+    color: #bdc3c7;
+}
+
+.pricing-list ul li span {
+    color: #34495e;
+}
+
+.pricing-list ul li:last-child {
+    border: none;
+}
